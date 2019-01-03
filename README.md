@@ -27,8 +27,14 @@ Notes:
 
 ## Practical Image Processing in Android
 
-**Accepted: DevFest Ukraine 2018**
+**Accepted: DevFest Ukraine 2018 (October 2018) **
 
 Images can add colour and add character to our apps. People love using images to depict parts of their everyday lives. But when you start working with them as a developer, your opinion on dealing with images may change. How can I easily add image effects to my app?
 
 In this session, you will learn how to process images on Android. Working with ColorFilters and Renderscript can provide your app with functionality to allow users to adjust their images to their liking. You will also learn the basics of displaying and working with images on Android. 
+
+## In a World of Pure Android Animation 🍭🍫
+
+**Applied: Android Makers France & App Builders CH (April 2019) ** 
+
+Have you dreamed of deliciously sweet animations in your app but have no idea where to start? 🍫 What about creating some delightful UI treats to keep your users intrigued and wanting to discover more? 🍦 Join Rebecca on this journey into a World of Pure Android Animation ✨. From creating custom view animations on a Canvas to using MotionLayout to create complex layout animations, there is something for everyone. We will also see how to create your own AnimatedVectorDrawable using Shape Shifter. No golden ticket required.
