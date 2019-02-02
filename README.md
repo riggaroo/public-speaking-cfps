@@ -35,6 +35,6 @@ In this session, you will learn how to process images on Android. Working with C
 
 ## In a World of Pure Android Animation 🍭🍫
 
-**Applied: Android Makers France & App Builders CH (April 2019) ** 
+**Accepted: Android Makers France & App Builders CH (April 2019) ** 
 
 Have you dreamed of deliciously sweet animations in your app but have no idea where to start? 🍫 What about creating some delightful UI treats to keep your users intrigued and wanting to discover more? 🍦 Join Rebecca on this journey into a World of Pure Android Animation ✨. From creating custom view animations on a Canvas to using MotionLayout to create complex layout animations, there is something for everyone. We will also see how to create your own AnimatedVectorDrawable using Shape Shifter. No golden ticket required.
