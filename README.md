@@ -38,3 +38,7 @@ In this session, you will learn how to process images on Android. Working with C
 **Accepted: Android Makers France & App Builders CH (April 2019) ** 
 
 Have you dreamed of deliciously sweet animations in your app but have no idea where to start? 🍫 What about creating some delightful UI treats to keep your users intrigued and wanting to discover more? 🍦 Join Rebecca on this journey into a World of Pure Android Animation ✨. From creating custom view animations on a Canvas to using MotionLayout to create complex layout animations, there is something for everyone. We will also see how to create your own AnimatedVectorDrawable using Shape Shifter. No golden ticket required.
+
+**Tips for Building Custom Views on Android with Canvas APIs📏🎨**
+
+Have you ever wanted to draw something custom beyond the standard views like a Bar Chart or an Advanced Image Viewer? In this talk, we will cover the basics of drawing onto a Canvas to create your own custom view. We will also cover some of the more advanced things you can do with the Canvas, such as using Shaders and Matrices to achieve magical effects. Lastly, we will look into how you can add custom animations to your own custom view.
